@@ -1,0 +1,76 @@
+{
+  // Editor Configs
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.letterSpacing": 0.5,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.6,
+  "editor.renderLineHighlight": "gutter",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.parameterHints.enabled": false,
+  "editor.suggestSelection": "first",
+  "editor.formatOnSave": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.accessibilitySupport": "off",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 2,
+  "editor.scrollBeyondLastLine": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.showFoldingControls": "mouseover",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.activityBar.location": "default",
+  "workbench.sideBar.location": "left",
+  "workbench.editor.labelFormat": "short",
+  "workbench.layoutControl.enabled": false,
+  "workbench.statusBar.visible": true,
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.enableExperiments": false,
+
+  // Explorer Configs
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+
+  // Terminal Integrated Configs
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.showExitAlert": false,
+  "terminal.integrated.suggest.enabled": false,
+  "terminal.integrated.stickyScroll.enabled": false,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.gpuAcceleration": "auto",
+
+  // Files Configs
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.autoSave": "onFocusChange",
+
+  // Window Configs
+  "window.commandCenter": false,
+  "window.titleBarStyle": "custom",
+
+  // Others Configs
+  "breadcrumbs.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "chat.viewSessions.orientation": "stacked",
+  "update.mode": "manual",
+  "telemetry.telemetryLevel": "off",
+
+  // Programming Languages Configs
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  }
+}
