@@ -1,5 +1,5 @@
 {
-  // Editor Configs
+  // Configuração do Editor
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontSize": 14,
   "editor.letterSpacing": 0.5,
@@ -25,6 +25,8 @@
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
   "editor.showFoldingControls": "mouseover",
+
+  // Configurações do Workbench
   "workbench.startupEditor": "newUntitledFile",
   "workbench.activityBar.location": "default",
   "workbench.sideBar.location": "left",
@@ -34,12 +36,12 @@
   "workbench.tree.enableStickyScroll": false,
   "workbench.enableExperiments": false,
 
-  // Explorer Configs
+  // Configurações do Explorador
   "explorer.confirmDelete": false,
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
 
-  // Terminal Integrated Configs
+  // Configurações do Terminal Integrado
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.fontSize": 12,
   "terminal.integrated.lineHeight": 1.2,
@@ -50,23 +52,23 @@
   "terminal.integrated.cursorStyle": "block",
   "terminal.integrated.gpuAcceleration": "auto",
 
-  // Files Configs
+  // Configurações de Arquivos
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "files.autoSave": "onFocusChange",
 
-  // Window Configs
+  // Configurações de Janela
   "window.commandCenter": false,
   "window.titleBarStyle": "custom",
 
-  // Others Configs
+  // Outras Configurações
   "breadcrumbs.enabled": false,
   "extensions.ignoreRecommendations": true,
   "chat.viewSessions.orientation": "stacked",
   "update.mode": "manual",
   "telemetry.telemetryLevel": "off",
 
-  // Programming Languages Configs
+  // Configurações Específicas para JSON
   "[json]": {
     "editor.tabSize": 2
   },
